@@ -1,7 +1,22 @@
 # Challenge-Code-API
 
-npm version patch
-npm publish 
+Install package : <br>
+
+```npm install```
+
+If you want to migrate : <br>
+
+```sequelize db:migrate```
+
+Or by import the database file : <br>
+
+https://drive.google.com/file/d/1KPmoOHaCvnC37uHbQUJfr8O9S70ykA3y/view?usp=share_link
+
+Run : <br>
+
+```npm start```
+
+---------------------------------------------------------
 
 <b>Dokumentasi API</b>:
 
