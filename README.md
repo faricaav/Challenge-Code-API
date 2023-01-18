@@ -1,5 +1,8 @@
 # Challenge-Code-API
 
+npm version patch
+npm publish 
+
 <b>Dokumentasi API</b>:
 
 <b>API ADMIN</b> <br>
